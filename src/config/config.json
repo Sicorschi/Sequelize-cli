@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "igor",
+    "password": "S1corsch1@",
+    "database": "InitSeqCliDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
